@@ -1,5 +1,4 @@
 ## Installation
-```
 
 Use [docker](https://docs.docker.com/engine/install/) to run apllication.
 
